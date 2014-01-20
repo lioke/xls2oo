@@ -1,0 +1,2 @@
+Simple xls 2 object oriented library.
+This library handle xls file same as django datasource. It is possible to filter rows in an easy way.
